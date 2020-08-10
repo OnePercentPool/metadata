@@ -1,0 +1,43 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/OnePercentPool/metadata/master/logo-square-black-line-64x64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/OnePercentPool/metadata/master/logo-square-black-line.png",
+        "location": "Japan",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "We are strong belivers in Cardano EcoSystem",
+            "server": "One of the High Grade Datacenters with 99,999% availability!",
+            "company": "We have experienced IT engineers and investors who are looking forward to share the Cardano Vision around the world!"
+        },
+        "rss": ""
+    },
+    "my-pool-ids": {
+        "0": "3409faed0879eeb5babb7784a5ca62d9e25cf8773e61484d0e06d880",
+        "1": "91a6ca1f758e92f7a60fb55b2c3fa1ae6e144d21d0547ac94b077bb7",
+        "2": "6a3e5b3f20f5d32d7b934cb5a8201b44681165ba4b476f48bd5135ce"
+        
+    },
+    "when-satured-then-recommend": {
+        "0": "6a3e5b3f20f5d32d7b934cb5a8201b44681165ba4b476f48bd5135ce",
+        "1": "91a6ca1f758e92f7a60fb55b2c3fa1ae6e144d21d0547ac94b077bb7"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
